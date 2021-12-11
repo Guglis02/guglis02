@@ -43,19 +43,4 @@
    
 </p>
 
-<p align="center"> 
-
- ## Visitas perfil <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Guglis02/count.svg" />
- </p>
-
-</p>
-
 ##
-
-<div> 
-
-  ![Snake animation](https://github.com/Guglis02/Guglis02/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
