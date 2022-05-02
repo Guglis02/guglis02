@@ -5,18 +5,18 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guglis02&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Olá! Eu sou o Gustavo. 
+## Hello! I'm Gustavo!
   
-### Sobre mim
+### About Me
 <div style="display: inline_block"  >
-<p> - 📚 Estudante do 4º semestre de Ciência da Computação na UFSM. </p>
-<p> - 💻 Desenvolvedor Unity estagiário no projeto SIS-ASTROS. </p>
-<p> - 🎯 Interesses: C#, Unity, GDScript, Linux. </p>   
+<p> - 📚 5th semester student of Computer Science at UFSM. </p>
+<p> - 💻 Unity developer in the SIS-ASTROS GMF project. </p>
+<p> - 🎯 Interests: C#, Unity, Godot, Linux. </p>   
   
   
 </div>
     
-## Conhecimentos
+## Knowledge
 <div align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,7 +28,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 </div>
   
-## Contato
+## How to reach me
 
 <p align="center">
     <a href="mailto:gustavomf02@gmail.com">
