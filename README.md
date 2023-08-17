@@ -9,7 +9,7 @@
   
 ### About Me
 <div style="display: inline_block"  >
-<p> - 📚 7th semester student of Computer Science at UFSM. </p>
+<p> - 📚 8th semester student of Computer Science at UFSM. </p>
 <p> - 💻 Unity developer in the SIS-ASTROS GMF project. </p>
 <p> - 🎯 Interests: C#, Unity, Godot, Linux. </p>   
   
