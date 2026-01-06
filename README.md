@@ -1,31 +1,38 @@
-<!--
-<div align="center">
-  <a href="https://github.com/Guglis02">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guglis02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guglis02&layout=compact&langs_count=7&theme=dracula"/>
+<h1 align="left">Hello! I'm Gustavo! 👋</h1>
+
+###
+
+<p align="left">I graduated in Computer Science at UFSM (2020-2024) and am currently pursuing a Master's degree in Computer Science at the same institution (2025-).<br>With a passion for game development and simulations, I am currently dedicating myself to the study of Virtual Reality. I have professional experience building simulations with Unity for the SIS-ASTROS project. In my free time, I like to experiment with other engines like Godot and Roblox Studio.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">- 📚 Master's Student in Computer Science at UFSM.<br>- 🎯 Interests: C#, C++, Unity, Godot, Linux.<br>- 🎲 Hobbies: Video-games, Bass, Books.</p>
+
+###
+
+<h2 align="left">Hard Skills</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
--->
-## Hello! I'm Gustavo!
-  
-### About Me
-<div style="display: inline_block"  >
-<p> - 📚 Master's Student in Computer Science at UFSM. </p>
-<p> - 🎯 Interests: C#, Unity, Godot, Linux. </p>   
-  
-  
-</div>
-    
-## Knowledge
-<div align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-</div>
+
+###
   
 ## How to reach me
 
